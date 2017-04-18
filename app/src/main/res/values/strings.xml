@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WordCount</string>
+    <string name="phrase">Enter a phrase</string>
+    <string name="wordCount">Get Word Count</string>
+</resources>
