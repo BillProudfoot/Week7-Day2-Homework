@@ -16,7 +16,7 @@
     <Button
         android:id="@+id/enter_phrase_button"
         android:onClick="onPhraseButtonClicked"
-        android:text="@string/phrase"
+        android:text="@string/wordCount"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/phrase"
